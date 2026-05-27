@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/PTN78020W_EUK-7:PTN78020W_EUK-7",
+  "name": "PTN78020W_EUK-7",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/PTN78020W_EUK-7.kicad_sym",
+  "description": "6A non-isolated switching regulator power module, 7-36V input voltage, 2.5-12.6V output voltage, EUK-7",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ptn78020w.pdf",
+  "keywords": "texas dc-dc converter step down buck",
+  "footprint": "Module:Texas_EUK_R-PDSS-T7_THT",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/PTN78020W_EUK-7/",
+  "part_path": "parts/PTN78020W_EUK-7",
+  "symbol_file": "parts/PTN78020W_EUK-7/PTN78020W_EUK-7.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.214Z"
+}

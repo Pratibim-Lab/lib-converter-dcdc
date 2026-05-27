@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/LTM8049:LTM8049",
+  "name": "LTM8049",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/LTM8049.kicad_sym",
+  "description": "Dual SEPIC or Inverting μModule DC/DC Converter, 2.6 to 20V input, 2.5V to 24V or -2.5V to -24V output, 1A @ 5V output current per converter, BGA-77 package.",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/LTM8049.pdf",
+  "keywords": "DC/DC Converter Dual",
+  "footprint": "Package_BGA:Analog_BGA-77_9x15mm_Layout7x11_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/LTM8049/",
+  "part_path": "parts/LTM8049",
+  "symbol_file": "parts/LTM8049/LTM8049.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:02.947Z"
+}

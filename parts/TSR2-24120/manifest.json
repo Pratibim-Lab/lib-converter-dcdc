@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TSR2-24120:TSR2-24120",
+  "name": "TSR2-24120",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TSR2-24120.kicad_sym",
+  "description": "2A step-down regulator, fixed 12V output voltage, 15-36V input voltage, TO-220 compatible LM78xx replacement, SIP-3",
+  "datasheet": "https://www.tracopower.com/products/tsr2.pdf",
+  "keywords": "Traco non-isolated pol dcdc converter single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TSR2-xxxx_THT",
+  "extends": "TSR_1-2450",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TSR2-24120/",
+  "part_path": "parts/TSR2-24120",
+  "symbol_file": "parts/TSR2-24120/TSR2-24120.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:06.266Z"
+}

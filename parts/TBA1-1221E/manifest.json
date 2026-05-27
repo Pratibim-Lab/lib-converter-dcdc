@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TBA1-1221E:TBA1-1221E",
+  "name": "TBA1-1221E",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TBA1-1221E.kicad_sym",
+  "description": "1W DC/DC converter unregulated, 10.8-13.2V input, ±5V output voltage, 100mA each output, 1.5kVDC isolation, SIP-7",
+  "datasheet": "https://www.tracopower.com/products/tba1e.pdf",
+  "keywords": "Traco isolated dc-dc not-regulated non-regulated dual",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TBA1-xxxxE_Dual_THT",
+  "extends": "TMA-0505D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TBA1-1221E/",
+  "part_path": "parts/TBA1-1221E",
+  "symbol_file": "parts/TBA1-1221E/TBA1-1221E.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.785Z"
+}

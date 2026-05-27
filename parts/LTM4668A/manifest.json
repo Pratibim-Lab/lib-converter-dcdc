@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/LTM4668A:LTM4668A",
+  "name": "LTM4668A",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/LTM4668A.kicad_sym",
+  "description": "Quad DC/DC μModule Regulator with Configurable 1.2A Output Array",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ltm4668a.pdf",
+  "keywords": "uModule DCDC",
+  "footprint": "Package_BGA:Analog_BGA-49_6.25x6.25mm_Layout7x7_P0.8mm",
+  "extends": "LTM4668",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/LTM4668A/",
+  "part_path": "parts/LTM4668A",
+  "symbol_file": "parts/LTM4668A/LTM4668A.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:02.937Z"
+}

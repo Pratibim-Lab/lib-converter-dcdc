@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/ATA00H18S-L:ATA00H18S-L",
+  "name": "ATA00H18S-L",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/ATA00H18S-L.kicad_sym",
+  "description": "Artesyn 3W Isolated DC/DC Converter Module, 24V Output Voltage, 9-36V Input Voltage",
+  "datasheet": "https://www.artesyn.com/power/assets/ata_series_ds_01apr2015_79c25814fd.pdf",
+  "keywords": "DC/DC converter single",
+  "footprint": "Converter_DCDC:Converter_DCDC_Artesyn_ATA_SMD",
+  "extends": "ATA00F18S-L",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/ATA00H18S-L/",
+  "part_path": "parts/ATA00H18S-L",
+  "symbol_file": "parts/ATA00H18S-L/ATA00H18S-L.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:00.724Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/NSD10-xxSyy:NSD10-xxSyy",
+  "name": "NSD10-xxSyy",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/NSD10-xxSyy.kicad_sym",
+  "description": "MeanWell 10W DC/DC converter, fixed output, 1kVDC isolation",
+  "datasheet": "https://www.meanwell.com/webapp/product/search.aspx?prod=NSD10-S",
+  "keywords": "meanwell isolated isolation dc-dc DC/DC converter regulated single 10W",
+  "footprint": "Converter_DCDC:Converter_DCDC_MeanWell_NSD10_THT",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/NSD10-xxSyy/",
+  "part_path": "parts/NSD10-xxSyy",
+  "symbol_file": "parts/NSD10-xxSyy/NSD10-xxSyy.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.154Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/R-78E3.3-0.5:R-78E3.3-0.5",
+  "name": "R-78E3.3-0.5",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/R-78E3.3-0.5.kicad_sym",
+  "description": "500mA Step-Down DC/DC-Regulator, 6-28V input, 3.3V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3",
+  "datasheet": "https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf",
+  "keywords": "dc-dc recom Step-Down DC/DC-Regulator",
+  "footprint": "Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT",
+  "extends": "R-78E5.0-0.5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/R-78E3.3-0.5/",
+  "part_path": "parts/R-78E3.3-0.5",
+  "symbol_file": "parts/R-78E3.3-0.5/R-78E3.3-0.5.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.461Z"
+}

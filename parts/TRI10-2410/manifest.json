@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TRI10-2410:TRI10-2410",
+  "name": "TRI10-2410",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TRI10-2410.kicad_sym",
+  "description": "10W DC/DC industrial converter regulated, 18-36V input, 3.3V fixed output voltage, 2.7A output, 5.0kVAC isolation, DIP-24",
+  "datasheet": "https://www.tracopower.com/products/tri10.pdf",
+  "keywords": "Traco isolated single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TRI10_Single_THT",
+  "extends": "TRI10-1210",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TRI10-2410/",
+  "part_path": "parts/TRI10-2410",
+  "symbol_file": "parts/TRI10-2410/TRI10-2410.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.849Z"
+}

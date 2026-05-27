@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TEC6-2419UI:TEC6-2419UI",
+  "name": "TEC6-2419UI",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TEC6-2419UI.kicad_sym",
+  "description": "6W DC/DC industrial converter regulated, 9-75V input, 9V fixed output voltage, 666mA output, 1.6kVDC isolation, SIP-8",
+  "datasheet": "https://www.tracopower.com/products/tec6ui.pdf",
+  "keywords": "Traco isolated dc-dc 62368-1 single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TEC3-24xxUI_THT",
+  "extends": "TEC3-2410UI",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TEC6-2419UI/",
+  "part_path": "parts/TEC6-2419UI",
+  "symbol_file": "parts/TEC6-2419UI/TEC6-2419UI.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:04.078Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/ITQ4805SA:ITQ4805SA",
+  "name": "ITQ4805SA",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/ITQ4805SA.kicad_sym",
+  "description": "XP Power 6W, 1000 VDC Isolated DC/DC Converter Module, Single Output Voltage 5V, ±1200mA, 48V Input Voltage, SIP",
+  "datasheet": "https://www.xppower.com/pdfs/SF_ITQ.pdf",
+  "keywords": "XP_POWER DC/DC isolated Converter module",
+  "footprint": "Converter_DCDC:Converter_DCDC_XP_POWER-ITxxxxxS_THT",
+  "extends": "ITX0503SA-R",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/ITQ4805SA/",
+  "part_path": "parts/ITQ4805SA",
+  "symbol_file": "parts/ITQ4805SA/ITQ4805SA.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:01.940Z"
+}

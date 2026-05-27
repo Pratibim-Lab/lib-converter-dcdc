@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/IA4809D:IA4809D",
+  "name": "IA4809D",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/IA4809D.kicad_sym",
+  "description": "XP Power 1W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±9V, ±55mA, 48V Input Voltage, DIP",
+  "datasheet": "https://www.xppower.com/pdfs/SF_IA.pdf",
+  "keywords": "XP_POWER DC/DC isolated Converter module",
+  "footprint": "Converter_DCDC:Converter_DCDC_XP_POWER-IA48xxD_THT",
+  "extends": "IA4803D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/IA4809D/",
+  "part_path": "parts/IA4809D",
+  "symbol_file": "parts/IA4809D/IA4809D.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:01.115Z"
+}

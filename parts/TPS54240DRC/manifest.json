@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TPS54240DRC:TPS54240DRC",
+  "name": "TPS54240DRC",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TPS54240DRC.kicad_sym",
+  "description": "3.5-V to 42-V 2.5A Step-Down DC DC Converter, VSON-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps54240.pdf",
+  "keywords": "DC-DC converter step-down buck 42V",
+  "footprint": "Package_SON:Texas_DRC0010J_ThermalVias",
+  "extends": "TPS54240DGQ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TPS54240DRC/",
+  "part_path": "parts/TPS54240DRC",
+  "symbol_file": "parts/TPS54240DRC/TPS54240DRC.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.675Z"
+}

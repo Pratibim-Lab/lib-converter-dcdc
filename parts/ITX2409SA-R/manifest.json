@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/ITX2409SA-R:ITX2409SA-R",
+  "name": "ITX2409SA-R",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/ITX2409SA-R.kicad_sym",
+  "description": "XP Power 6W, 1000 VDC Isolated DC/DC Converter Module, Remote Control, Fully Regulated Single Output Voltage 9V, ±666mA, 24V Input Voltage, SIP",
+  "datasheet": "https://www.xppower.com/pdfs/SF_ITX.pdf",
+  "keywords": "XP_POWER DC/DC isolated Converter module",
+  "footprint": "Converter_DCDC:Converter_DCDC_XP_POWER-ITxxxxxS_THT",
+  "extends": "ITX0503SA-R",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/ITX2409SA-R/",
+  "part_path": "parts/ITX2409SA-R",
+  "symbol_file": "parts/ITX2409SA-R/ITX2409SA-R.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:02.473Z"
+}

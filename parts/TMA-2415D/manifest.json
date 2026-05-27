@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TMA-2415D:TMA-2415D",
+  "name": "TMA-2415D",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TMA-2415D.kicad_sym",
+  "description": "1W DC/DC converter unregulated, 21.6-26.4V input, ±15V output voltage, 34mA each output, 1.0kVDC isolation, SIP-7",
+  "datasheet": "https://www.tracopower.com/products/tma.pdf",
+  "keywords": "Traco isolated dc-dc not-regulated non-regulated dual",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TMA-15xxD_24xxD_Dual_THT",
+  "extends": "TMA-0505D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TMA-2415D/",
+  "part_path": "parts/TMA-2415D",
+  "symbol_file": "parts/TMA-2415D/TMA-2415D.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.091Z"
+}

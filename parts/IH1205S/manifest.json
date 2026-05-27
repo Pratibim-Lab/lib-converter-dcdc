@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/IH1205S:IH1205S",
+  "name": "IH1205S",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/IH1205S.kicad_sym",
+  "description": "XP Power 2W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±5V, ±200mA, 12V Input Voltage, SIP",
+  "datasheet": "https://www.xppower.com/pdfs/SF_IH.pdf",
+  "keywords": "XP_POWER DC/DC isolated Converter module",
+  "footprint": "Converter_DCDC:Converter_DCDC_XP_POWER-IHxxxxS_THT",
+  "extends": "IH0503S",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/IH1205S/",
+  "part_path": "parts/IH1205S",
+  "symbol_file": "parts/IH1205S/IH1205S.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:01.492Z"
+}

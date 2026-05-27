@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/ITX0503SA:ITX0503SA",
+  "name": "ITX0503SA",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/ITX0503SA.kicad_sym",
+  "description": "XP Power 6W, 1000 VDC Isolated DC/DC Converter Module, Fully Regulated Single Output Voltage 3.3V, ±1300mA, 5V Input Voltage, SIP",
+  "datasheet": "https://www.xppower.com/pdfs/SF_ITX.pdf",
+  "keywords": "XP_POWER DC/DC isolated Converter module",
+  "footprint": "Converter_DCDC:Converter_DCDC_XP_POWER-ITXxxxxSA_THT",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/ITX0503SA/",
+  "part_path": "parts/ITX0503SA",
+  "symbol_file": "parts/ITX0503SA/ITX0503SA.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:01.990Z"
+}

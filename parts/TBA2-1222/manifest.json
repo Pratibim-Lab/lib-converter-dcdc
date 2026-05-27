@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TBA2-1222:TBA2-1222",
+  "name": "TBA2-1222",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TBA2-1222.kicad_sym",
+  "description": "2W DC/DC converter unregulated, 10.8-13.2V input, ±12V output voltage, 80mA each output, 1.5kVDC isolation, SIP-7",
+  "datasheet": "https://www.tracopower.com/products/tba2.pdf",
+  "keywords": "Traco isolated dc-dc not-regulated non-regulated dual",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TBA2-xxxx_Dual_THT",
+  "extends": "TMA-0505D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TBA2-1222/",
+  "part_path": "parts/TBA2-1222",
+  "symbol_file": "parts/TBA2-1222/TBA2-1222.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.868Z"
+}

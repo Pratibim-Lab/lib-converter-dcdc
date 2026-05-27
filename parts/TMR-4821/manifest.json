@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TMR-4821:TMR-4821",
+  "name": "TMR-4821",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TMR-4821.kicad_sym",
+  "description": "2W DC/DC industrial converter regulated, 36-75V input, ±5V fixed output voltage, 200mA each output, 1.6kVDC isolation, SIP-8",
+  "datasheet": "https://www.tracopower.com/products/tmr2.pdf",
+  "keywords": "Traco isolated dc-dc 62368-1 dual",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TEC2-12xxWI_24xxWI_48xxWI_THT",
+  "extends": "TEC3-2421UI",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TMR-4821/",
+  "part_path": "parts/TMR-4821",
+  "symbol_file": "parts/TMR-4821/TMR-4821.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.286Z"
+}

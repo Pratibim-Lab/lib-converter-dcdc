@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TEN20-4823WIN:TEN20-4823WIN",
+  "name": "TEN20-4823WIN",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TEN20-4823WIN.kicad_sym",
+  "description": "665mA Isolated DC/DC Dual Supply Converter Module, fixed ±15V Output Voltage, 18-75V Input Voltage",
+  "datasheet": "http://www.tracopower.com/products/ten20win.pdf",
+  "keywords": "Traco isolated DC/DC Converter module",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TEN20-xxxx_THT",
+  "extends": "TEN20-2421WIN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TEN20-4823WIN/",
+  "part_path": "parts/TEN20-4823WIN",
+  "symbol_file": "parts/TEN20-4823WIN/TEN20-4823WIN.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:04.372Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/LMZ23603TZ:LMZ23603TZ",
+  "name": "LMZ23603TZ",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/LMZ23603TZ.kicad_sym",
+  "description": "3A Adjustable Step-Down DC/DC Power Module, Vin: 6-36V",
+  "datasheet": "http://www.ti.com/lit/gpn/lmz23603",
+  "keywords": "Step-Down DC/DC Module",
+  "footprint": "Package_TO_SOT_SMD:Texas_NDW-7_TabPin4",
+  "extends": "LMZ23605TZ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/LMZ23603TZ/",
+  "part_path": "parts/LMZ23603TZ",
+  "symbol_file": "parts/LMZ23603TZ/LMZ23603TZ.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:02.870Z"
+}

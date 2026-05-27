@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/PTN78000W_EUS-5:PTN78000W_EUS-5",
+  "name": "PTN78000W_EUS-5",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/PTN78000W_EUS-5.kicad_sym",
+  "description": "1.5A non-isolated switching regulator power module, 7-36V input voltage, 2.5-12.6V output voltage, EUS-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ptn78000w.pdf",
+  "keywords": "texas dc-dc converter step down buck",
+  "footprint": "Module:Texas_EUS_R-PDSS-T5_THT",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/PTN78000W_EUS-5/",
+  "part_path": "parts/PTN78000W_EUS-5",
+  "symbol_file": "parts/PTN78000W_EUS-5/PTN78000W_EUS-5.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.196Z"
+}

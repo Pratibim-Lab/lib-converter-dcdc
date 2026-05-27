@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TMR-2411:TMR-2411",
+  "name": "TMR-2411",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TMR-2411.kicad_sym",
+  "description": "2W DC/DC industrial converter regulated, 18-36V input, 5V fixed output voltage, 400mA output, 1.6kVDC isolation, SIP-8",
+  "datasheet": "https://www.tracopower.com/products/tmr2.pdf",
+  "keywords": "Traco isolated dc-dc 62368-1 single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TEC2-12xxWI_24xxWI_48xxWI_THT",
+  "extends": "TEC3-2410UI",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TMR-2411/",
+  "part_path": "parts/TMR-2411",
+  "symbol_file": "parts/TMR-2411/TMR-2411.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.201Z"
+}

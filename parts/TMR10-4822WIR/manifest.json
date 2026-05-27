@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TMR10-4822WIR:TMR10-4822WIR",
+  "name": "TMR10-4822WIR",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TMR10-4822WIR.kicad_sym",
+  "description": "10W DC/DC railway converter regulated, 18-75V input, ±12V fixed output voltage, 420mA each output, 3.0kVDC isolation, SIP-8",
+  "datasheet": "https://www.tracopower.com/products/tmr10wir.pdf",
+  "keywords": "Traco isolated dc-dc 50155 50121-3-2 62368-1 dual",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TMR10-24xxWIR_48xxWIR_72xxWIR_THT",
+  "extends": "TMR10-2421WIR",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TMR10-4822WIR/",
+  "part_path": "parts/TMR10-4822WIR",
+  "symbol_file": "parts/TMR10-4822WIR/TMR10-4822WIR.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.413Z"
+}

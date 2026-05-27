@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/RPM3.3-6.0:RPM3.3-6.0",
+  "name": "RPM3.3-6.0",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/RPM3.3-6.0.kicad_sym",
+  "description": "6A non-isolated switching regulator power module, 4-15V input voltage, 3.3V output voltage, DOSA",
+  "datasheet": "https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf",
+  "keywords": "Recom dc-dc converter",
+  "footprint": "Converter_DCDC:Converter_DCDC_RECOM_RPMx.x-x.0",
+  "extends": "RPM5.0-6.0",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/RPM3.3-6.0/",
+  "part_path": "parts/RPM3.3-6.0",
+  "symbol_file": "parts/RPM3.3-6.0/RPM3.3-6.0.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.617Z"
+}

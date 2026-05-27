@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TME-2405S:TME-2405S",
+  "name": "TME-2405S",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TME-2405S.kicad_sym",
+  "description": "1W DC/DC converter unregulated, 21.6-26.4V input, 5V output voltage, 200mA output, 1kVDC isolation, SIP-4",
+  "datasheet": "https://www.tracopower.com/products/tme.pdf",
+  "keywords": "Traco isolated dc-dc not-regulated non-regulated single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TME_24xxS_Single_THT",
+  "extends": "MEE3S0505SC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TME-2405S/",
+  "part_path": "parts/TME-2405S",
+  "symbol_file": "parts/TME-2405S/TME-2405S.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.131Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/LT1026:LT1026",
+  "name": "LT1026",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/LT1026.kicad_sym",
+  "description": "voltage doubler and inverter",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1026fb.pdf",
+  "keywords": "monolithic switched capacitor voltage doubler inverter ",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/LT1026/",
+  "part_path": "parts/LT1026",
+  "symbol_file": "parts/LT1026/LT1026.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:02.901Z"
+}

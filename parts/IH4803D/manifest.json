@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/IH4803D:IH4803D",
+  "name": "IH4803D",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/IH4803D.kicad_sym",
+  "description": "XP Power 2W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±3.3V, ±200mA, 48V Input Voltage, DIP",
+  "datasheet": "https://www.xppower.com/pdfs/SF_IH.pdf",
+  "keywords": "XP_POWER DC/DC isolated Converter module",
+  "footprint": "Converter_DCDC:Converter_DCDC_XP_POWER-IHxxxxD_THT",
+  "extends": "IH0503D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/IH4803D/",
+  "part_path": "parts/IH4803D",
+  "symbol_file": "parts/IH4803D/IH4803D.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:01.723Z"
+}

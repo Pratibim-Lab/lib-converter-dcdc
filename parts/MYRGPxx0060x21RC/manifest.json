@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/MYRGPxx0060x21RC:MYRGPxx0060x21RC",
+  "name": "MYRGPxx0060x21RC",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/MYRGPxx0060x21RC.kicad_sym",
+  "description": "PicoBK Inductor Built-in Step-Down “mini DC/DC” Converters. 3MHz, input 2V to 6V, fixed output voltage 0.8V to 4V, 600mA output current. 2.5 x 2.0mm.",
+  "datasheet": "https://www.murata.com/products/productdata/8816428285982/MYRGP-WB-RC.pdf",
+  "keywords": "Fixed step-down converter",
+  "footprint": "Converter_DCDC:Converter_DCDC_Murata_MYRxP",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/MYRGPxx0060x21RC/",
+  "part_path": "parts/MYRGPxx0060x21RC",
+  "symbol_file": "parts/MYRGPxx0060x21RC/MYRGPxx0060x21RC.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.123Z"
+}

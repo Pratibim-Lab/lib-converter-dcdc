@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/THB10-2412:THB10-2412",
+  "name": "THB10-2412",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/THB10-2412.kicad_sym",
+  "description": "10W DC/DC converter regulated, 18-36V input, 12V fixed output voltage, 835mA output, reinforced 4.2kVAC isolation, 2\"x1\"",
+  "datasheet": "https://www.tracopower.com/products/thb10.pdf",
+  "keywords": "Traco reinforced isolated isolation dc-dc converter regulated single 10W",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_THB10-xxxx_Single_THT",
+  "extends": "THB10-1211",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/THB10-2412/",
+  "part_path": "parts/THB10-2412",
+  "symbol_file": "parts/THB10-2412/THB10-2412.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:04.786Z"
+}

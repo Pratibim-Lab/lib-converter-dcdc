@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TSR0.6-4865WI:TSR0.6-4865WI",
+  "name": "TSR0.6-4865WI",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TSR0.6-4865WI.kicad_sym",
+  "description": "0.6A step-down regulator, fixed 6.5V output voltage, 9-72V input voltage, TO-220 compatible LM78xx replacement",
+  "datasheet": "https://www.tracopower.com/products/tsr0.6wi.pdf",
+  "keywords": "Traco non-isolated pol dcdc converter single 0.6A",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TSR0.6-48xxWI_TSR0.6-48xxxWI_THT",
+  "extends": "TSR_1-2450",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TSR0.6-4865WI/",
+  "part_path": "parts/TSR0.6-4865WI",
+  "symbol_file": "parts/TSR0.6-4865WI/TSR0.6-4865WI.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:06.238Z"
+}

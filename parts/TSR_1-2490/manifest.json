@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TSR_1-2490:TSR_1-2490",
+  "name": "TSR_1-2490",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TSR_1-2490.kicad_sym",
+  "description": "1A step-down regulator module, fixed 9V output voltage, 2-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement",
+  "datasheet": "http://www.tracopower.com/products/tsr1.pdf",
+  "keywords": "dc-dc traco buck",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TSR-1_THT",
+  "extends": "TSR_1-2450",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TSR_1-2490/",
+  "part_path": "parts/TSR_1-2490",
+  "symbol_file": "parts/TSR_1-2490/TSR_1-2490.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:06.161Z"
+}

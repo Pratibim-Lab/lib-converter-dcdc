@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TES1-0519:TES1-0519",
+  "name": "TES1-0519",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TES1-0519.kicad_sym",
+  "description": "1W DC/DC converter unregulated, 4.5-5.5V input, 9V output voltage, 110mA output, 1.5kVDC isolation, SMD-8",
+  "datasheet": "https://www.tracopower.com/products/tes1.pdf",
+  "keywords": "Traco isolated dc-dc not-regulated non-regulated single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TES1-051x_121x_241x_Single_SMD",
+  "extends": "TES1-0510",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TES1-0519/",
+  "part_path": "parts/TES1-0519",
+  "symbol_file": "parts/TES1-0519/TES1-0519.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:04.635Z"
+}

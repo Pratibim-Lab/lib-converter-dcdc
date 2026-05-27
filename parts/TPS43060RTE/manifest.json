@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TPS43060RTE:TPS43060RTE",
+  "name": "TPS43060RTE",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TPS43060RTE.kicad_sym",
+  "description": "Low Quiescent Current Synchronous Boost DC-DC Controller, 7.5V Gate Driver,  Input 4.5 to 38V, Output Vin to 58V, WQFN-16",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps43060.pdf",
+  "keywords": "Boost DC-DC",
+  "footprint": "Package_DFN_QFN:Texas_S-PWQFN-N16_EP1.2x0.8mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TPS43060RTE/",
+  "part_path": "parts/TPS43060RTE",
+  "symbol_file": "parts/TPS43060RTE/TPS43060RTE.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.670Z"
+}

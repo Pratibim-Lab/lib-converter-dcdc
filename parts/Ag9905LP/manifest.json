@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/Ag9905LP:Ag9905LP",
+  "name": "Ag9905LP",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/Ag9905LP.kicad_sym",
+  "description": "Regulated 7W DC/DC PoE converter IEEE 802.3af, 36V-57V input, +5V Output Voltage, LP-DIL-8",
+  "datasheet": "https://silvertel.com/images/datasheets/Ag9900M-datasheet-ultra-miniature-isolated-Power-over-Ethernet-POE-module.pdf",
+  "keywords": "Silvertel isolated isolation dc-dc converter transformer power-over-ethernet over temperature protection short-circuit protection",
+  "footprint": "Converter_DCDC:Converter_DCDC_Silvertel_Ag99xxLP_THT",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/Ag9905LP/",
+  "part_path": "parts/Ag9905LP",
+  "symbol_file": "parts/Ag9905LP/Ag9905LP.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:00.625Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/LTM4637xY:LTM4637xY",
+  "name": "LTM4637xY",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/LTM4637xY.kicad_sym",
+  "description": "20A DC/DC µModule Step-Down Regulator, BGA-133",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf",
+  "keywords": "uModule DCDC",
+  "footprint": "Package_BGA:Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/LTM4637xY/",
+  "part_path": "parts/LTM4637xY",
+  "symbol_file": "parts/LTM4637xY/LTM4637xY.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:02.916Z"
+}

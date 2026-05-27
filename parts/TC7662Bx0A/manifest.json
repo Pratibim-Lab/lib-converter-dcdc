@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TC7662Bx0A:TC7662Bx0A",
+  "name": "TC7662Bx0A",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TC7662Bx0A.kicad_sym",
+  "description": "Charge Pump DC-to-DC Converter, 1.5 - 15V, 100mA, SOIC-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21469a.pdf",
+  "keywords": "charge pump DC-to-DC converter",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TC7662Bx0A/",
+  "part_path": "parts/TC7662Bx0A",
+  "symbol_file": "parts/TC7662Bx0A/TC7662Bx0A.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.890Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TEN10-11021WIRH:TEN10-11021WIRH",
+  "name": "TEN10-11021WIRH",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TEN10-11021WIRH.kicad_sym",
+  "description": "10W DC/DC railway converter regulated, 36-160V input, ±5V fixed output voltage, 1A each output, 3.0kVAC isolation, DIP-24",
+  "datasheet": "https://www.tracopower.com/products/ten10wirh.pdf",
+  "keywords": "Traco isolated dual",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TEN10-110xxWIRH_THT",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TEN10-11021WIRH/",
+  "part_path": "parts/TEN10-11021WIRH",
+  "symbol_file": "parts/TEN10-11021WIRH/TEN10-11021WIRH.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:04.204Z"
+}

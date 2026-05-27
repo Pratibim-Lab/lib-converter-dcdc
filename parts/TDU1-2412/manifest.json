@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TDU1-2412:TDU1-2412",
+  "name": "TDU1-2412",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TDU1-2412.kicad_sym",
+  "description": "1W DC/DC converter unregulated, 21.6-26.4V input, 12V output voltage, 84mA output, 1.5kVDC isolation, DIP-8",
+  "datasheet": "https://www.tracopower.com/products/tdu1.pdf",
+  "keywords": "Traco isolated dc-dc not-regulated non-regulated single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TDU1-xxxx_THT",
+  "extends": "TDU1-0511",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TDU1-2412/",
+  "part_path": "parts/TDU1-2412",
+  "symbol_file": "parts/TDU1-2412/TDU1-2412.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.912Z"
+}

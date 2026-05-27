@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TSR2-2433N:TSR2-2433N",
+  "name": "TSR2-2433N",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TSR2-2433N.kicad_sym",
+  "description": "2A step-down regulator, fixed 3.3V output voltage, 4.6-36V input voltage, TO-220 compatible LM78xx replacement",
+  "datasheet": "https://www.tracopower.com/products/tsr2n.pdf",
+  "keywords": "Traco non-isolated pol dcdc converter single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TSR2-24xxN_TSR2-24xxxN_THT",
+  "extends": "TSR_1-2450",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TSR2-2433N/",
+  "part_path": "parts/TSR2-2433N",
+  "symbol_file": "parts/TSR2-2433N/TSR2-2433N.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:06.302Z"
+}

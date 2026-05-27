@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/IH2412DH:IH2412DH",
+  "name": "IH2412DH",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/IH2412DH.kicad_sym",
+  "description": "XP Power 2W, 3000-6000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±12V, ±84mA, 24V Input Voltage, DIP",
+  "datasheet": "https://www.xppower.com/pdfs/SF_IH.pdf",
+  "keywords": "XP_POWER DC/DC isolated Converter module",
+  "footprint": "Converter_DCDC:Converter_DCDC_XP_POWER-IHxxxxDH_THT",
+  "extends": "IH0503DH",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/IH2412DH/",
+  "part_path": "parts/IH2412DH",
+  "symbol_file": "parts/IH2412DH/IH2412DH.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:01.682Z"
+}

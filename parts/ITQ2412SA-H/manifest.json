@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/ITQ2412SA-H:ITQ2412SA-H",
+  "name": "ITQ2412SA-H",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/ITQ2412SA-H.kicad_sym",
+  "description": "XP Power 6W, 3000 VDC Isolated DC/DC Converter Module, Single Output Voltage 12V, ±500mA, 24V Input Voltage, SIP",
+  "datasheet": "https://www.xppower.com/pdfs/SF_ITQ.pdf",
+  "keywords": "XP_POWER DC/DC isolated Converter module",
+  "footprint": "Converter_DCDC:Converter_DCDC_XP_POWER-ITQxxxxS-H_THT",
+  "extends": "ITQ2403SA-H",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/ITQ2412SA-H/",
+  "part_path": "parts/ITQ2412SA-H",
+  "symbol_file": "parts/ITQ2412SA-H/ITQ2412SA-H.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:01.900Z"
+}

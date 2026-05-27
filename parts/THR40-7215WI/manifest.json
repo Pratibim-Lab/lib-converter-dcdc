@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/THR40-7215WI:THR40-7215WI",
+  "name": "THR40-7215WI",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/THR40-7215WI.kicad_sym",
+  "description": "40W DC/DC industrial converter regulated, 36-160V input, 24V fixed output voltage, 1.67A output, 3.0kVAC isolation, 2”x1”",
+  "datasheet": "https://www.tracopower.com/products/thr40wi.pdf",
+  "keywords": "Traco isolated dc-dc 62368-1 single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_THR40-72xxWI_THT",
+  "extends": "TEN20-11011WIRH",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/THR40-7215WI/",
+  "part_path": "parts/THR40-7215WI",
+  "symbol_file": "parts/THR40-7215WI/THR40-7215WI.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.013Z"
+}

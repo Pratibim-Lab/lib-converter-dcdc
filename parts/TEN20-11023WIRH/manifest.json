@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TEN20-11023WIRH:TEN20-11023WIRH",
+  "name": "TEN20-11023WIRH",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TEN20-11023WIRH.kicad_sym",
+  "description": "20W DC/DC railway converter regulated, 36-160V input, ±15V fixed output voltage, 667mA each output, 3.0kVAC isolation, 1”x1.6”",
+  "datasheet": "https://www.tracopower.com/products/ten20wirh.pdf",
+  "keywords": "Traco isolated dc-dc 50155 50121-3-2 62368-1 dual",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TEN20-110xxWIRH_THT",
+  "extends": "TEN20-11021WIRH",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TEN20-11023WIRH/",
+  "part_path": "parts/TEN20-11023WIRH",
+  "symbol_file": "parts/TEN20-11023WIRH/TEN20-11023WIRH.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:04.263Z"
+}

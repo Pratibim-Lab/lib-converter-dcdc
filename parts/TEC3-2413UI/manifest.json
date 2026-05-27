@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TEC3-2413UI:TEC3-2413UI",
+  "name": "TEC3-2413UI",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TEC3-2413UI.kicad_sym",
+  "description": "3W DC/DC industrial converter regulated, 9-75V input, 15V fixed output voltage, 200mA output, 2.0kVDC isolation, SIP-8",
+  "datasheet": "https://www.tracopower.com/products/tec3ui.pdf",
+  "keywords": "Traco isolated dc-dc 62368-1 single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TEC3-24xxUI_THT",
+  "extends": "TEC3-2410UI",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TEC3-2413UI/",
+  "part_path": "parts/TEC3-2413UI",
+  "symbol_file": "parts/TEC3-2413UI/TEC3-2413UI.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:04.058Z"
+}

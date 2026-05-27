@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TMA-0505S:TMA-0505S",
+  "name": "TMA-0505S",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TMA-0505S.kicad_sym",
+  "description": "1W DC/DC converter unregulated, 4.5-5.5V input, 5V output voltage, 200mA output, 1.0kVDC isolation, SIP-7",
+  "datasheet": "https://www.tracopower.com/products/tma.pdf",
+  "keywords": "Traco isolated dc-dc not-regulated non-regulated single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TMA-05xxS_12xxS_Single_THT",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TMA-0505S/",
+  "part_path": "parts/TMA-0505S",
+  "symbol_file": "parts/TMA-0505S/TMA-0505S.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.025Z"
+}

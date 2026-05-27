@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/OKI-78SR-5_1.5-W36-C:OKI-78SR-5_1.5-W36-C",
+  "name": "OKI-78SR-5_1.5-W36-C",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/OKI-78SR-5_1.5-W36-C.kicad_sym",
+  "description": "1.5A Step-Down DC/DC-Regulator, 7-36V input, 5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, OKI-78SR_Vertical",
+  "datasheet": "https://power.murata.com/data/power/oki-78sr.pdf",
+  "keywords": "dc-dc murata Step-Down DC/DC-Regulator",
+  "footprint": "Converter_DCDC:Converter_DCDC_Murata_OKI-78SR_Vertical",
+  "extends": "OKI-78SR-3.3_1.5-W36-C",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/OKI-78SR-5_1.5-W36-C/",
+  "part_path": "parts/OKI-78SR-5_1.5-W36-C",
+  "symbol_file": "parts/OKI-78SR-5_1.5-W36-C/OKI-78SR-5_1.5-W36-C.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.177Z"
+}

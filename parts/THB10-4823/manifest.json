@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/THB10-4823:THB10-4823",
+  "name": "THB10-4823",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/THB10-4823.kicad_sym",
+  "description": "10W DC/DC converter regulated, 36-75V input, ±15V fixed output voltage, 333mA each output, reinforced 4.2kVAC isolation, 2\"x1\"",
+  "datasheet": "https://www.tracopower.com/products/thb10.pdf",
+  "keywords": "Traco reinforced isolated isolation dc-dc converter regulated dual 10W",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_THB10-xxxx_Dual_THT",
+  "extends": "THB10-1222",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/THB10-4823/",
+  "part_path": "parts/THB10-4823",
+  "symbol_file": "parts/THB10-4823/THB10-4823.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:04.809Z"
+}

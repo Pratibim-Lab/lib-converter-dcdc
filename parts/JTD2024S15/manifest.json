@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/JTD2024S15:JTD2024S15",
+  "name": "JTD2024S15",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/JTD2024S15.kicad_sym",
+  "description": "Isolated 20W 4:1 input DC/DC converter module, 9-36V input voltage, 15V output voltage, DIP",
+  "datasheet": "https://www.xppower.com/portals/0/pdfs/SF_JTD20.pdf",
+  "keywords": "isolated isolation dc-dc converter step-down",
+  "footprint": "Converter_DCDC:Converter_DCDC_XP_POWER_JTDxxxxxxx_THT",
+  "extends": "JTD2024S3V3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/JTD2024S15/",
+  "part_path": "parts/JTD2024S15",
+  "symbol_file": "parts/JTD2024S15/JTD2024S15.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:02.771Z"
+}

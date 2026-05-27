@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TEN20-2410WIN:TEN20-2410WIN",
+  "name": "TEN20-2410WIN",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TEN20-2410WIN.kicad_sym",
+  "description": "5.5A Isolated DC/DC Converter Module, fixed 3.3V Output Voltage, 9-36V Input Voltage",
+  "datasheet": "http://www.tracopower.com/products/ten20win.pdf",
+  "keywords": "Traco isolated DC/DC Converter module",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TEN20-xxxx_THT",
+  "extends": "TEN20-2411WIN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TEN20-2410WIN/",
+  "part_path": "parts/TEN20-2410WIN",
+  "symbol_file": "parts/TEN20-2410WIN/TEN20-2410WIN.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:04.266Z"
+}

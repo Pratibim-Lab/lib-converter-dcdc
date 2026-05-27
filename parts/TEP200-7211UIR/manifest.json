@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TEP200-7211UIR:TEP200-7211UIR",
+  "name": "TEP200-7211UIR",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TEP200-7211UIR.kicad_sym",
+  "description": "200W DC/DC railway converter regulated, 14-160V input, 5V fixed output voltage, 40A output, 3.0kVAC isolation, Half-Brick",
+  "datasheet": "https://www.tracopower.com/products/tep200uir.pdf",
+  "keywords": "Traco isolated dc-dc 50155 50121-3-2 62368-1 single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TEP150-721xUIR_THT",
+  "extends": "TEP150-7211UIR",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TEP200-7211UIR/",
+  "part_path": "parts/TEP200-7211UIR",
+  "symbol_file": "parts/TEP200-7211UIR/TEP200-7211UIR.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:04.584Z"
+}

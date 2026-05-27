@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/R-782.5-1.0:R-782.5-1.0",
+  "name": "R-782.5-1.0",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/R-782.5-1.0.kicad_sym",
+  "description": "1A Step-Down DC/DC-Regulator, 4.75-18V input, 2.5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3",
+  "datasheet": "https://www.recom-power.com/pdf/Innoline/R-78xx-1.0.pdf",
+  "keywords": "dc-dc recom Step-Down DC/DC-Regulator",
+  "footprint": "Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT",
+  "extends": "R-78E5.0-0.5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/R-782.5-1.0/",
+  "part_path": "parts/R-782.5-1.0",
+  "symbol_file": "parts/R-782.5-1.0/R-782.5-1.0.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.263Z"
+}

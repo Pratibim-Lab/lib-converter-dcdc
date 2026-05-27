@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/LMZM23601V3:LMZM23601V3",
+  "name": "LMZM23601V3",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/LMZM23601V3.kicad_sym",
+  "description": "1A 3.3V Step-Down DC/DC Power Module in 3.8x3mm, MicroSIP-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmzm23601.pdf",
+  "keywords": "Step-Down DC/DC Module",
+  "footprint": "Package_LGA:Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias",
+  "extends": "LMZM23601",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/LMZM23601V3/",
+  "part_path": "parts/LMZM23601V3",
+  "symbol_file": "parts/LMZM23601V3/LMZM23601V3.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:02.894Z"
+}

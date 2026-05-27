@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/RPMH5.0-1.5:RPMH5.0-1.5",
+  "name": "RPMH5.0-1.5",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/RPMH5.0-1.5.kicad_sym",
+  "description": "1.5A non-isolated switching regulator power module, 7-60V input voltage, 5V output voltage",
+  "datasheet": "https://recom-power.com/pdf/Innoline/RPMH-1.5.pdf",
+  "keywords": "Recom DC-DC converter",
+  "footprint": "Converter_DCDC:Converter_DCDC_RECOM_RPMx.x-x.0",
+  "extends": "RPMH3.3-1.5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/RPMH5.0-1.5/",
+  "part_path": "parts/RPMH5.0-1.5",
+  "symbol_file": "parts/RPMH5.0-1.5/RPMH5.0-1.5.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.686Z"
+}

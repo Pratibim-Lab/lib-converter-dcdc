@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/MUN12AD03-SH:MUN12AD03-SH",
+  "name": "MUN12AD03-SH",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/MUN12AD03-SH.kicad_sym",
+  "description": "DC/DC Switching Regulator, Power Module, 3A, Cyntec MUN12AD03",
+  "datasheet": "http://www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD03-SH_Datasheet.pdf",
+  "keywords": "DC/DC Switching Regulator Power Module 3A Cyntec MUN12AD03",
+  "footprint": "Converter_DCDC:Converter_DCDC_Cyntec_MUN12AD03-SH",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/MUN12AD03-SH/",
+  "part_path": "parts/MUN12AD03-SH",
+  "symbol_file": "parts/MUN12AD03-SH/MUN12AD03-SH.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.120Z"
+}

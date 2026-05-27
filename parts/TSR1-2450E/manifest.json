@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TSR1-2450E:TSR1-2450E",
+  "name": "TSR1-2450E",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TSR1-2450E.kicad_sym",
+  "description": "1A step-down regulator, fixed 5V output voltage, 7-36V input voltage, TO-220 compatible LM78xx replacement",
+  "datasheet": "https://www.tracopower.com/products/tsr1e.pdf",
+  "keywords": "Traco non-isolated not-isolated pol dc-dc converter regulator single 1A",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TSR1-xxxxE_THT",
+  "extends": "TSR_1-2450",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TSR1-2450E/",
+  "part_path": "parts/TSR1-2450E",
+  "symbol_file": "parts/TSR1-2450E/TSR1-2450E.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:06.244Z"
+}

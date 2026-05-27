@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TPS82150:TPS82150",
+  "name": "TPS82150",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TPS82150.kicad_sym",
+  "description": "17V Input 1A Step-Down Converter MicroSiP Module with Integrated Inductor, μSiL-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps82150.pdf",
+  "keywords": "17V 1A Step-down Buck Module",
+  "footprint": "Package_LGA:Texas_SIL0008D_MicroSiP-8-1EP_2.8x3mm_P0.65mm_EP1.1x1.9mm_ThermalVias",
+  "extends": "TPS82130",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TPS82150/",
+  "part_path": "parts/TPS82150",
+  "symbol_file": "parts/TPS82150/TPS82150.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.688Z"
+}

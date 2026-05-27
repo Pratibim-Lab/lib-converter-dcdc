@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TRI1-2412:TRI1-2412",
+  "name": "TRI1-2412",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TRI1-2412.kicad_sym",
+  "description": "1W DC/DC industrial converter unregulated, 21.6-26.4V input, 12V output voltage, 84mA output, 3.0kVDC isolation, SIP-7",
+  "datasheet": "https://www.tracopower.com/products/tri1.pdf",
+  "keywords": "Traco isolated dc-dc not-regulated non-regulated 62368-1 single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TRI1-xxxx_THT",
+  "extends": "TRI1-0511",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TRI1-2412/",
+  "part_path": "parts/TRI1-2412",
+  "symbol_file": "parts/TRI1-2412/TRI1-2412.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.804Z"
+}

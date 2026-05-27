@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/ITX4803SA-R:ITX4803SA-R",
+  "name": "ITX4803SA-R",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/ITX4803SA-R.kicad_sym",
+  "description": "XP Power 6W, 1000 VDC Isolated DC/DC Converter Module, Remote Control, Fully Regulated Single Output Voltage 3.3V, ±1300mA, 48V Input Voltage, SIP",
+  "datasheet": "https://www.xppower.com/pdfs/SF_ITX.pdf",
+  "keywords": "XP_POWER DC/DC isolated Converter module",
+  "footprint": "Converter_DCDC:Converter_DCDC_XP_POWER-ITxxxxxS_THT",
+  "extends": "ITX0503SA-R",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/ITX4803SA-R/",
+  "part_path": "parts/ITX4803SA-R",
+  "symbol_file": "parts/ITX4803SA-R/ITX4803SA-R.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:02.571Z"
+}

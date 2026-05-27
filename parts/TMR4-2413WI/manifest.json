@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TMR4-2413WI:TMR4-2413WI",
+  "name": "TMR4-2413WI",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TMR4-2413WI.kicad_sym",
+  "description": "4W DC/DC industrial converter regulated, 9-36V input, 15V fixed output voltage, 266mA output, 1.6kVDC isolation, SIP-8",
+  "datasheet": "https://www.tracopower.com/products/tmr4wi.pdf",
+  "keywords": "Traco isolated dc-dc 62368-1 single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TMR4-xxxxWI_THT",
+  "extends": "TEC3-2410UI",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TMR4-2413WI/",
+  "part_path": "parts/TMR4-2413WI",
+  "symbol_file": "parts/TMR4-2413WI/TMR4-2413WI.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.556Z"
+}

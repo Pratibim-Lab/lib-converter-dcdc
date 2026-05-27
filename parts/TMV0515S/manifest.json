@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TMV0515S:TMV0515S",
+  "name": "TMV0515S",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TMV0515S.kicad_sym",
+  "description": "1W DC/DC converter unregulated, 4.5-5.5V input, 15V output voltage, 67mA output, 3.0kVDC isolation, SIP-7",
+  "datasheet": "https://www.tracopower.com/products/tmv.pdf",
+  "keywords": "Traco isolated dc-dc not-regulated non-regulated single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TMV-051xS_121xS_Single_THT",
+  "extends": "TEA1-0505HI",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TMV0515S/",
+  "part_path": "parts/TMV0515S",
+  "symbol_file": "parts/TMV0515S/TMV0515S.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:05.638Z"
+}

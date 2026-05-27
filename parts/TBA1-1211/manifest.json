@@ -1,0 +1,17 @@
+{
+  "id": "Converter_DCDC/TBA1-1211:TBA1-1211",
+  "name": "TBA1-1211",
+  "library": "Converter_DCDC",
+  "file": "Converter_DCDC.kicad_symdir/TBA1-1211.kicad_sym",
+  "description": "1W DC/DC converter unregulated, 10.8-13.2V input, 5V output voltage, 200mA output, 1.5kVDC isolation, SIP-4",
+  "datasheet": "https://www.tracopower.com/products/tba1.pdf",
+  "keywords": "Traco isolated dc-dc not-regulated non-regulated single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TBA1-xxxx_THT",
+  "extends": "MEE3S0505SC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-converter-dcdc@master/parts/TBA1-1211/",
+  "part_path": "parts/TBA1-1211",
+  "symbol_file": "parts/TBA1-1211/TBA1-1211.kicad_sym",
+  "source_library": "Converter_DCDC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:03.760Z"
+}
